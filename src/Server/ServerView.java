@@ -98,7 +98,7 @@ public class ServerView {
         gp.add(btnStartServer, 0, 2);
 
         HBox hb = new HBox(gp);
-        hb.setTranslateX(50);
+        hb.setTranslateX(70);
         hb.setTranslateY(120);
 
         BorderPane bp = new BorderPane(hb,mBar, null, null,null);
